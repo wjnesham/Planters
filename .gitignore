@@ -30,3 +30,9 @@
 *.exe
 *.out
 *.app
+
+# IDEA (William's) config files
+.idea/
+.DS_*
+CMakeLists.*
+cmake-build-debug*
