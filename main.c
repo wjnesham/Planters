@@ -1,13 +1,13 @@
 //Planters
 //Main program
 
-#include <iostream>
+//#include <iostream.h>
 
 
 int main()
 {
     //Open ui
-    system("open Arduino");
+    system("open ~/Downloads/Arduino.app");
 
     //Create or Load or
 
