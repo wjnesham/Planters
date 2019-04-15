@@ -30,3 +30,8 @@
 *.exe
 *.out
 *.app
+
+# William's Clion stuff
+*.idea
+CMakeLists.txt
+cmake*
